@@ -1,0 +1,5 @@
+This file was written in 2015-04-30. Here the Arduino Uno & WiFiShield R3 are used to send data to the server;
+Here I used api.yeelink.net. But first I need to set up an account and find the API key and device ID; 
+WIFI shield is using Client command.
+Another thing to notice: Here I use Arduino IDE 1.0.2. For some reasons, I cannot use 1.0.5 version.
+By Guannan Wang  2015-04-30
